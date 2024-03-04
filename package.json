@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "mysql2": "^3.9.2"
+  },
+  "name": "apirest",
+  "description": "��#\u0000 \u0000a\u0000p\u0000i\u0000R\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "apiRest.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
